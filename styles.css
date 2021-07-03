@@ -1,0 +1,20 @@
+.flex {
+    display: flex;
+    gap: 5px;
+
+}
+
+.border {
+    width: 600px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.talk-btn {
+    background: cornflowerblue;
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
